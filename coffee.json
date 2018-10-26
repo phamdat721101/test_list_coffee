@@ -1,0 +1,32 @@
+[
+    {
+        "id":10 ,
+        "name": "Mocha",
+        "type": "1",
+        "farmer": "Bin",
+        "warehouse": "nhi",
+        "store": "dat",
+        "status": "ready",
+        "certificate": "gs1"
+    },
+    {
+        "id":9 ,
+        "name": "Capuchino",
+        "type": "1",
+        "farmer": "Nam",
+        "warehouse": "Ken",
+        "store": "Ho",
+        "status": "Delivery",
+        "certificate": "gs1:1009"
+    },
+    {
+        "id":8 ,
+        "name": "expresso",
+        "type": "3",
+        "farmer": "minh",
+        "warehouse": "lol",
+        "store": "hm",
+        "status": "selling",
+        "certificate": "gs1:446"
+    }
+]
